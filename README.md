@@ -1,1 +1,1 @@
-# Machine-Learning---dengue-prediction
+# Machine-Learning---diabetes-prediction
